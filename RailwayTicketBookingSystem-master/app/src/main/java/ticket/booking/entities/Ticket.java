@@ -15,7 +15,7 @@ import java.sql.Date;
 @JsonNaming(PropertyNamingStrategy.SnakeCaseStrategy.class)
 public class Ticket{
 
-    private String ticketId;
+    private String ticketId; 
 
     private String userId;
 
