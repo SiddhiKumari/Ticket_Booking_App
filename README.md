@@ -1,4 +1,4 @@
-#Ticket_Booking_App<br />
+#Ticket_Booking_App
 
 • Developed a Java-based backend system for railway ticket booking using solid OOP concepts.<br />
 • Stores user and train details in a local JSON database using Jackson library.<br />
